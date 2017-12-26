@@ -1,0 +1,279 @@
+body{
+    color: red;
+    width: 100%;
+ }
+
+.breadcrumb{
+    background: none;
+}
+.nav{
+    width: 82%;
+    font-size: 19px;
+}
+.navbar-brand{
+  border-right: 1px solid #e8e8e8;
+}
+.navbar-brand img{
+      display: block;
+    margin-left: 15px;
+    border-right: 33px solid #0000;
+}
+
+.textW{
+
+     margin-left: 12pc;
+    margin-bottom: -4pc;
+    margin-top: 7pc;
+}
+.teks{
+       display: flex;
+    width: auto;
+    height: auto;
+    margin-top: 0em;
+    padding-bottom: 20pc;
+
+}
+
+.leftline{
+  width: 20%;
+    height: 72pc;
+
+  margin-left: -5pc;
+}
+.Por1 a {
+     font-size: 12px;
+    font-family: sans-serif;
+    text-decoration: none;
+    text-align: center;
+}
+.Por1 .colors{
+    font-size: 15px;
+    font-family: sans-serif;
+    text-decoration: none;
+    text-align: center;
+}
+.Por1 a:hover{
+  color: red;
+}
+
+.Por1 span{
+      margin-left: 29px;
+}
+.Woman{
+    font-size: 30px;
+    margin-left:50px;
+    font-weight: 400;
+    margin-top: 0px;
+}
+.btn{
+    margin-bottom: 16px;
+}
+h4{
+   font-size: 21px;
+   
+    width: 180px;
+    height: 376px;}
+
+.Listul{
+       list-style: none;
+    padding-top: 44px;
+    font-size: 21px;
+    margin-left: -2em;
+}
+.Listul a{
+
+text-decoration: none;
+
+}
+
+.kubik{
+
+height: auto;
+    margin-left: 14pc;
+    padding-left: 2em;
+    margin-top: -40em;
+  
+
+    width: 63pc;
+
+}
+
+.kub{
+
+    width: 270px;
+    height: 500px;
+    margin:2px;
+    display: inline-block;
+    margin-left: 2em;
+    text-align: center;
+}
+.kub a{
+    color: red;
+    text-decoration: none;
+    font-size: initial;
+
+}
+.kub a:hover{
+    color: darkred;
+}
+
+.kub > .suprize{
+
+    font-size: initial;
+       color: slategrey;
+}
+.kub > .Prise {
+
+ font-size: x-large;
+}
+
+.kub:hover{
+    box-shadow: 0 0 0 5px;
+    animation:4s linear;
+ border-right: 1px red;
+
+}
+
+.kub > .btn{
+   width: 170px;
+   height: 50px;
+   background-color: black;
+   color: white;
+
+}
+
+.kub > .btn:hover{
+transition: 0.5s;
+ 
+  background-color: red;
+
+}
+
+.foter2{
+ 
+    width: 100%;
+    height: 300px;
+    margin-top: 2em;
+  
+}
+
+
+
+
+
+
+.foter{
+      width: 100%;
+    height: 250px;
+    margin-top: 84em;
+    position: absolute;
+    background: black;
+    display: flex;
+    margin-left: -25px;
+}
+
+.dublefoter{
+width:  300px;
+height:  233px;
+
+display: inline-block;
+margin: 5px;
+margin-left: 3.5em;
+}
+.dublefoter ul {
+       margin-left: -44px;
+       list-style: none;
+}
+.dublefoter p{
+  font-size: 24px;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: white;
+  margin-top: 9px;
+}
+.dublefoter a {
+
+  color: #959595;
+  display: table;
+  margin-left: 0px;
+  font-size: 20px;
+}
+
+.textdiv{
+
+  font-weight: 700;
+    font-size: large;
+    color: #959595;
+        margin-left: -8px;
+  
+}
+.dublefoter p{
+
+      font-weight: 700;
+    font-size: large;
+    color: #959595;
+   
+}
+.contact ul {
+      height: 150px;
+    width: 240px;
+   
+}
+.contact ul p{
+
+  width: 193px;
+  height: 15px;
+  font-size: inherit;
+  outline: none;
+  color: #959595;
+}
+
+.dublefoter p{
+      color: red;
+    border: 0 solid;
+    box-shadow: inset 0 0 20px rgba(255, 255, 255, 0);
+    outline: 1px solid;
+    outline-color: white;
+    outline-offset: 7px;
+    width: 9pc;
+    text-shadow: none;
+    transition: all 1250ms cubic-bezier(0.19, 1, 0.22, 1);
+}
+.dublefoter a:hover{
+  border: 1px solid;
+box-shadow: inset 0 0 20px rgba(255, 255, 255, .5), 0 0 20px rgba(255, 255, 255, .2);
+outline-color: rgba(255, 255, 255, 0);
+outline-offset: 15px;
+text-shadow: 1px 1px 2px #427388;
+border-radius: 4px;
+}
+.divfoter{
+
+  width: 100%;
+  height: 70px;
+  background: black;
+  padding-top: 20px;
+}
+.divfoter text{
+
+margin-left: 10px;
+color: #959595;
+
+}
+.divfoter img{
+      margin-bottom: 4px;
+          margin-left: 46px;
+}
+
+.polic{
+
+  margin: auto;
+  margin-left: 10px;
+
+}
+.contact .fa{
+
+  padding-right: 20px;
+  color:darkred;
+}
+
